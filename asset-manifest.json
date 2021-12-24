@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlgoProject/static/css/main.d613fd65.css",
+    "main.js": "/AlgoProject/static/js/main.6500a09a.js",
+    "static/js/787.a6ac642a.chunk.js": "/AlgoProject/static/js/787.a6ac642a.chunk.js",
+    "index.html": "/AlgoProject/index.html",
+    "main.d613fd65.css.map": "/AlgoProject/static/css/main.d613fd65.css.map",
+    "main.6500a09a.js.map": "/AlgoProject/static/js/main.6500a09a.js.map",
+    "787.a6ac642a.chunk.js.map": "/AlgoProject/static/js/787.a6ac642a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d613fd65.css",
+    "static/js/main.6500a09a.js"
+  ]
+}
